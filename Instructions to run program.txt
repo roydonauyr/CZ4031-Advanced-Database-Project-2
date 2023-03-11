@@ -1,0 +1,5 @@
+Instructions to run program
+
+1. Ensure python version is 3.8 (For 3.10 version and above psycopg2 wont run and an error will show: ModuleNotFoundError: No module named 'psycopg2')
+2. Pip install psycopg2 (If doesnt work, install psycopg2-binary)
+3. CD to the correct directory and Run the project.py file
