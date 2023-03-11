@@ -9,7 +9,7 @@
 
 **Introduction**
 
-In this project, we are tasked with the goal to translate and annotate a given SQL Query by
+In this project, we were tasked with the goal to translate and annotate a given SQL Query by
 obtaining their Optimal QEP and respective AQPs. Using these AQPs, we are able to explain how
 different components of the query are executed by the underlying query processor and why the
 operators are chosen among other alternatives.
